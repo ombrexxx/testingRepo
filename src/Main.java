@@ -6,5 +6,6 @@ public class Main {
         System.out.println("from new branch");
         Helper.gettingString("olaaaa");
         System.out.println("adding to a new branch");
+         System.out.println("another");
     }
 }
